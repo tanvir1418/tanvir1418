@@ -4,11 +4,11 @@
 
 - 💻 I’m currently working on **a MERN stack project**
 
-- 📚 I’m currently learning **everything that is related to React**
+- 📚 I’m currently learning **ReactJS and React Component Libraries**
 
-- 🥅 2022 Goals: **Start carrier as a developer**
+- 🥅 2022 Goals: **Start career as a developer at any reputed tech company**
 
-- ⚡ Fun fact: **I love to teach people and play any type of game at leisure time**
+- ⚡ Fun fact: **I love to teach people and playing games at leisure time**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,10 +40,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://tanvirahmed.netlify.app/" target="blank">
+<a href="https://tanvirahmed.netlify.app/" target="_blank">
 <img align="center"  alt="Tanvir | Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://linkedin.com/in/tanvir1418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir1418" height="30" width="40" /></a>
-<a href="https://twitter.com/tanvir1418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir1418" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanvir1418" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir1418" height="30" width="40" /></a>
+<a href="https://twitter.com/tanvir1418" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir1418" height="30" width="40" /></a>
 </p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1418&show_icons=true&locale=en&layout=compact" alt="tanvir1418" /></p>
