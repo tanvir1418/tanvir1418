@@ -6,8 +6,6 @@
 
 - 📚 I’m currently learning **ReactJS and React Component Libraries**
 
-- 🥅 2022 Goals: **Start career as a developer at any reputed tech company**
-
 - ⚡ Fun fact: **I love to teach people and playing games at leisure time**
 
 <h3 align="left">Languages and Tools:</h3>
