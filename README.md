@@ -2,7 +2,7 @@
 
 I'm a motivated **Junior Software Developer** with expertise in the **MERN stack** and **PHP frameworks** like Laravel and CodeIgniter. I specialize in building scalable **SaaS platforms**, **ERP systems**, and **e-commerce solutions**, focusing on performance optimization and user experience.
 
-At **InleadsIT**, I’ve contributed to projects like **SquadDeck** (SaaS platform) and managed cloud infrastructure via **AWS**. My freelance experience includes delivering custom solutions for international clients, enhancing my problem-solving skills.
+At **InleadsIT**, I’ve contributed to projects like **SquadDeck** (SaaS platform), **Office Management** (ERP System) and managed cloud infrastructure via **AWS**. My freelance experience includes delivering custom solutions for international clients, enhancing my problem-solving skills.
 
 I'm currently advancing my skills in **TypeScript**, **React**, and exploring **serverless architectures** and **APIs** to deliver robust, efficient applications.
 
