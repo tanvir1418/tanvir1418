@@ -1,41 +1,38 @@
-<h1 align="center">Hi there, I'm Tanvir</h1>
+# Hi there, I'm Tanvir Ahmed 👋
 
-## I'm a Developer and Teacher
+## 🚀 About Me
 
-- 💻 I’m currently working on **a MERN stack project**
+I'm **Tanvir Ahmed**, a motivated **Junior Software Developer** with expertise in the **MERN stack** and **PHP frameworks** like Laravel and CodeIgniter. I specialize in building scalable **SaaS platforms**, **ERP systems**, and **e-commerce solutions**, focusing on performance optimization and user experience.
 
-- 📚 I’m currently learning **ReactJS and React Component Libraries**
+At **InleadsIT**, I’ve contributed to projects like **SquadDeck** (SaaS platform) and managed cloud infrastructure via **AWS**. My freelance experience includes delivering custom solutions for international clients, enhancing my problem-solving skills.
 
-- ⚡ Fun fact: **I love to teach people and playing games at leisure time**
+I'm currently advancing my skills in **TypeScript**, **React**, and exploring **serverless architectures** and **APIs** to deliver robust, efficient applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+## 🛠️ Tech Stack
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+### 💻 Languages & Frameworks:
+- **Frontend:** `React.js`, `Next.js`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `TailwindCSS`, `Bootstrap`
+- **Backend:** `Node.js`, `Express.js`, `PHP`, `CodeIgniter`, `Laravel`, `Socket.io`
+- **Databases:** `MongoDB`, `MySQL`
+  
+### ☁️ Cloud & Deployment:
+- **Cloud Platforms:** `AWS (EC2, S3)`, `DigitalOcean`, `Laravel Forge`
+- **DevOps & Infrastructure:** `Cloudflare`, `DNS Management`, `CDN`
+  
+### 🛠️ Tools & Version Control:
+- **Version Control:** `Git`, `GitHub`, `Bitbucket`
+- **Project Management:** `Jira`, `Confluence`
 
-</p>
+---
 
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir1418&show_icons=true&locale=en&layout=compact" alt="tanvir1418" /></p>
+## 📊 GitHub Analytics
+
+![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvir1418&show_icons=true&count_private=true&hide=issues&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1418&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+**Email:** [`tanvirahmed1418@gmail.com`](mailto:tanvirahmed1418@gmail.com) | **LinkedIn:** [`linkedin.com/in/tanvir1418`](https://www.linkedin.com/in/tanvir1418/) | **Portfolio:** [`tanvirahmed.netlify.app`](https://tanvirahmed.netlify.app/) | **GitHub:** [`github.com/tanvir1418`](https://github.com/tanvir1418)
