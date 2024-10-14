@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvir Ahmed 👋
 
-I'm a motivated **Junior Software Developer** with expertise in the **MERN stack** and **PHP frameworks** like Laravel and CodeIgniter. I specialize in building scalable **SaaS platforms**, **ERP systems**, and **e-commerce solutions**, focusing on performance optimization and user experience.
+I'm a motivated **Full Stack Developer** with expertise in the **MERN stack** and **PHP frameworks** like Laravel and CodeIgniter. I specialize in building scalable **SaaS platforms**, **ERP systems**, and **e-commerce solutions**, focusing on performance optimization and user experience.
 
 At **InleadsIT**, I’ve contributed to projects like **SquadDeck** (SaaS platform), **Office Management** (ERP System) and managed cloud infrastructure via **AWS**. My freelance experience includes delivering custom solutions for international clients, enhancing my problem-solving skills.
 
