@@ -1,35 +1,43 @@
-# Hi there, I'm Tanvir Ahmed 👋
+## Hi there, I'm Tanvir Ahmed 👋
 
-I'm a motivated **Full Stack Developer** with expertise in the **MERN stack** and **PHP frameworks** like Laravel and CodeIgniter. I specialize in building scalable **SaaS platforms**, **ERP systems**, and **e-commerce solutions**, focusing on performance optimization and user experience.
+I'm a passionate **Full Stack Developer** with **4+ years of professional experience** building scalable **SaaS platforms**, **ERP systems**, and modern web/mobile applications using the **MERN stack**, **NestJS**, and **PHP frameworks**.
 
-At **InleadsIT**, I’ve contributed to projects like **SquadDeck** (SaaS platform), **Office Management** (ERP System) and managed cloud infrastructure via **AWS**. My freelance experience includes delivering custom solutions for international clients, enhancing my problem-solving skills.
+I enjoy building production-ready applications with clean architecture, optimized performance, and excellent user experiences. My work spans across **web apps**, **mobile apps**, **REST APIs**, **real-time systems**, and **cloud infrastructure**.
 
-I'm currently advancing my skills in **TypeScript**, **React**, and exploring **serverless architectures** and **APIs** to deliver robust, efficient applications.
+Currently working at **Promise Group**, contributing to multiple SaaS products across frontend, backend, and mobile platforms.
 
 ---
 
 ## 🛠️ Tech Stack
-
 ### 💻 Languages & Frameworks:
-- **Frontend:** `React.js`, `Next.js`, `HTML`, `CSS`, `JavaScript`, `jQuery`, `TailwindCSS`, `Bootstrap`
-- **Backend:** `Node.js`, `Express.js`, `PHP`, `CodeIgniter`, `Laravel`, `Socket.io`
-- **Databases:** `MongoDB`, `MySQL`
+- **Frontend:** `React.js`, `Next.js`, `React Native (Expo)`, `TypeScript`, `JavaScript`, `TailwindCSS`, `Redux`, `Zustand`, `Bootstrap`, `jQuery`, `HTML`, `CSS`
+- **Backend:** `Node.js`, `Express.js`, `NestJS`, `PHP`, `Laravel`, `CodeIgniter`, `Socket.io`
+- **Databases:** `PostgreSQL`, `MongoDB`, `MySQL`, `Redis`
   
 ### ☁️ Cloud & Deployment:
-- **Cloud Platforms:** `AWS (EC2, S3)`, `DigitalOcean`, `Laravel Forge`
-- **DevOps & Infrastructure:** `Cloudflare`, `DNS Management`, `CDN`
+- **Cloud Platforms:** `AWS (EC2, S3)`, `DigitalOcean (Droplet, Spaces)`, `Google Cloud`
+- **DevOps & Infrastructure:** `Docker`, `Cloudflare (CDN & DNS)`, `DigitalOcean Networking`
   
 ### 🛠️ Tools & Version Control:
 - **Version Control:** `Git`, `GitHub`, `Bitbucket`
 - **Project Management:** `Jira`, `Confluence`
 
 ---
-![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvir1418&show_icons=true&count_private=true&hide=issues&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1418&layout=compact&theme=radical)
+
+## 💼 Professional Experience
+
+**Full Stack Developer — Promise Group** *(June 2025 – Present)*
+- Building SaaS products (Promise School & Teachy) across **Next.js**, **NestJS**, and **React Native (Expo)**
+
+**Software Developer — InleadsIT** *(January 2023 – March 2025)*
+- Developed **SquadDeck** (MERN stack SaaS) and an internal **ERP system** using CodeIgniter & MySQL
+
+**Frontend Developer — Atmotech IT** *(July 2020 – August 2021)*
+- Built responsive frontend projects including a hotel booking platform and a data management system for a US-based client
 
 ---
 
 ## 📫 Contact Me
-
 [`tanvirahmed1418@gmail.com`](mailto:tanvirahmed1418@gmail.com) | [`linkedin.com/in/tanvir1418`](https://www.linkedin.com/in/tanvir1418/) | [`tanvirahmed.netlify.app`](https://tanvirahmed.netlify.app/) | [`github.com/tanvir1418`](https://github.com/tanvir1418)
 
-**Let’s connect and build something awesome together!**
+**Let's connect and build something awesome together!**
